@@ -27,4 +27,4 @@ module.exports = {
     passwordIsOk,passwordIsValid
 }
 
-console.log(passwordIsOk("t@rBie&10!"));
+ console.log(passwordIsOk("t@rBie&10!"));
